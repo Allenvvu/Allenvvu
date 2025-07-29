@@ -2,7 +2,9 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Allenvvu&label=Profile%20views&color=green&style=flat)
 <h3 align="center">A Passionate Machine Learning Engineer</h3>
 
-- 🔭 I’m currently working on **Machine Learning on Motion Planning for Autonomous Vehicle**
+- 🔭 Currently working on **Machine Learning on Motion Planning for Autonomous Vehicle**
+- 🎓 Previously UCSD Mechanical Engineering graduate
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
