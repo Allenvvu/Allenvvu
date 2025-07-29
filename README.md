@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Allen</h1>
-![](https://komarev.com/ghpvc/?username=Allenvvu&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=Allenvvu&label=Profile%20views&color=green&style=flat)
 <h3 align="center">A Passionate Machine Learning Engineer</h3>
 
 - 🔭 I’m currently working on **Machine Learning on Motion Planning for Autonomous Vehicle**
